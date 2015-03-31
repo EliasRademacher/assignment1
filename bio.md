@@ -25,4 +25,4 @@ Programming
 	team mates made a Battleship game using Java in Eclipse. That project was fun because I was working
 	on a team. Also, we were learning a object oriented programming, which was very interesting.
 	When it comes to computer science, I like working with high level programs using object oriented programming.
-	I don't like C or assembly programming as much.
+	I don't like C or assembly programming as much. I am exited for CS 290.
