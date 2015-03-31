@@ -19,3 +19,6 @@ Programming
 	I am a junior in computer science (computer systems).
 	Last fall, I changed my major from electrical engineering to computer science.
 	I did not know that I liked programming until I took CS 161 my sophomore year.
+	My favorite computer science project that I have ever done was in CS 361, where me and my three
+	team mates made a Battleship game using Java in Eclipse. That project was fun because I was working
+	on a team.
