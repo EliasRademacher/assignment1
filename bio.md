@@ -14,3 +14,5 @@ Dream Jobs
 Places Lived
 	McMinnville, OR (hometown)
 	Corvallis, OR (current)
+
+Programming
