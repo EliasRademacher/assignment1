@@ -16,3 +16,6 @@ Places Lived
 	Corvallis, OR (current)
 
 Programming
+	I am a junior in computer science (computer systems).
+	Last fall, I changed my major from electrical engineering to computer science.
+	I did not know that I liked programming until I took CS 161 my sophomore year.
