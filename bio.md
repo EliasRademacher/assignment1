@@ -15,7 +15,7 @@ Places Lived
 	McMinnville, OR (hometown)
 	Corvallis, OR (current)
 
-Programming Background
+Programming
 	I am a junior in computer science (computer systems).
 	Last fall, I changed my major from electrical engineering to computer science.
 	I did not know that I liked programming until I took CS 161 my sophomore year.
@@ -24,3 +24,7 @@ Programming Background
 	My favorite computer science project that I have ever done was in CS 361, where me and my three
 	team mates made a Battleship game using Java in Eclipse. That project was fun because I was working
 	on a team. Also, we were learning a object oriented programming, which was very interesting.
+	When it comes to computer science, I like working with high level programs using object oriented programming.
+	I don't like C or assembly programming as much. I am exited for CS 290. I like the idea of making websites
+	because there is a lot of visual appeal to them, and the whole world gets to see them. It might make a good career.
+	
