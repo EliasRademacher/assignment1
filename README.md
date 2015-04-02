@@ -6,4 +6,4 @@ In other words, please grade the work that I did on March 31, not March 30.
 
 
 
-I started the assignemt on March 31, but things got messy, so I merged all the branches back to master, deleted the file, and started over from scratch the next day.
+I started the assignemt on March 30, but things got messy, so I merged all the branches back to master, deleted the file, and started over from scratch the next day.
